@@ -17,11 +17,9 @@ toc = true
 
 |patate|citron|pomme|
 |:----:|:----:|:---:|
-|poire|coucou|goal|
+|poire|coucou|goal[^1]:coucou|
 |aksjd|ykjdkfjsdf|askd|
 
 ***
-
-[^1]:coucou
 
 [*Biodiversity* **PMC**](https://biodiversitypmc.sibils.org/)
