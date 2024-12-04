@@ -22,6 +22,6 @@ toc = true
 
 ***
 
-[^1]coucou
+[^1]: coucou
 
 [*Biodiversity* **PMC**](https://biodiversitypmc.sibils.org/)
