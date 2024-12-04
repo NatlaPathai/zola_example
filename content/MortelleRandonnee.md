@@ -17,7 +17,7 @@ toc = true
 
 |patate|citron|pomme|
 |:----:|:----:|:---:|
-|poire|coucou|goal[^1]:coucou|
+|poire|coucou|goal [^1]:coucou|
 |aksjd|ykjdkfjsdf|askd|
 
 ***
